@@ -16,7 +16,7 @@
 ![女装](https://img.shields.io/badge/%E5%A5%B3%E8%A3%85-(%E8%BF%AB%E7%9C%9F)-orange?style=flat-square)
 (剩下啥都不会了)
 
-###语言
+### 语言
 
 ![C](https://img.shields.io/badge/C-orange?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
