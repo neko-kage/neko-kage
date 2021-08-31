@@ -39,7 +39,7 @@
 
 ## 社交
 
-![Twitter](https://img.shields.io/badge/_@_NekoKage-blue?style=flat-square&logo=twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/@__NekoKage-blue?style=flat-square&logo=twitter&logoColor=white)
 ![QQ](https://img.shields.io/badge/QQ:%20739622490-pink?style=flat-square)
 
 ## 统计
