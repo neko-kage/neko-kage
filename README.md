@@ -1,5 +1,7 @@
 # 关于影猫的一些事情
 
+*是小药娘 跨性别者啦*
+
 ## 开发环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
